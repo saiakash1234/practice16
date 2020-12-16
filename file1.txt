@@ -3,3 +3,4 @@ added line 2 from local and commited local
 line 2 from remote
 fkjsafidx
 line 3 added from remote
+added line 6 first at local

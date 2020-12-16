@@ -3,4 +3,9 @@ added line 2 from local and commited local
 line 2 from remote
 fkjsafidx
 line 3 added from remote
+<<<<<<< HEAD
 added line 6 first at local
+=======
+
+added 7 after local commit
+>>>>>>> 9f278eaf310e403963d3ec0c449185d961c14945
